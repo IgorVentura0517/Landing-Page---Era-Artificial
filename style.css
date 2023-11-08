@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.secctions{
+    text-align: center;
+    padding: 50px;
+    border-bottom: 2px solid #d5d5d5;
+    background-color: #f5f5f5;
+}
+
+.titulo__secc1{
+    font-family: 'Verdana';
+    margin: 10px 420px 25px 420px;
+    font-size: 28px;
+}
+
+.img__secc1, .imagem__autor{
+    width: 190px;
+    height: auto;
+    border: 2px solid black;
+   
+}
+
+.subtitulo__secc1, .subtitulo__secc2, .sectitulo__secc3{
+    font-family: 'Verdana';
+    margin: 35px 420px 35px 420px ;
+    font-size: 24px;
+}
+
+.paragrafo__secc1, .paragrafo__secc2, .paragrafo__secc3{  
+    font-family: 'Verdana';
+    margin: 25px 400px 50px 400px;
+    font-size: 15px;
+    line-height: 25px;
+}
+
+.link__comprar{
+    text-decoration: none;
+    font-family: 'Verdana';
+    color: white;
+    background-color: green;
+    padding: 7px 40px 7px 40px;
+    border-radius: 80px;
+}
+
+span{
+    font-weight: bold;
+}
+
+
